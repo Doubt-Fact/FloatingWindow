@@ -1,0 +1,51 @@
+{
+  "id": "5182032",
+  "name": "floatingWindow",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4880431",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "10439466",
+      "name": "钉住呼出-已钉住状态",
+      "font_class": "dingzhuhuchu-yidingzhuzhuangtai",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "3267438",
+      "name": "pdf",
+      "font_class": "pdf",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "5387527",
+      "name": "加号",
+      "font_class": "jiahao",
+      "unicode": "eaf3",
+      "unicode_decimal": 60147
+    },
+    {
+      "icon_id": "5387735",
+      "name": "眼睛_隐藏",
+      "font_class": "yanjing_yincang",
+      "unicode": "eb45",
+      "unicode_decimal": 60229
+    },
+    {
+      "icon_id": "29097490",
+      "name": "钉住呼出-未钉住状态",
+      "font_class": "dingzhuhuchu-weidingzhuzhuangtai",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    }
+  ]
+}
